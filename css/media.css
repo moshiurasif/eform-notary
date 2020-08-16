@@ -1,0 +1,36 @@
+@media screen and (min-width: 1199px){
+
+}
+@media screen and (min-width: 991px){
+.social-links ul li:last-child a {
+    margin-right: 50px;
+}
+.menu{
+	margin-top: 12px;
+}
+.menu ul li a{
+	font-size: 13px;
+}
+.banner-content h1{
+	font-size: 40px;
+}
+.feature-box{
+	padding: 1rem;
+	width: 75%;
+}
+.email{
+	padding: 10px 2px;
+}
+}
+@media screen and (min-width: 767px){
+	.feature-box{
+	width: 80%;
+}
+.email{
+	padding: 10px 1px;
+}
+
+}
+@media screen and (min-width: 575px){
+
+}
