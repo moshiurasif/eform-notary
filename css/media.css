@@ -24,7 +24,7 @@
 	padding: 10px 2px;
 }
 }
-@media screen and (min-width: 767px){
+@media screen and (min-width: 767px) and (max-width:991px){
 	.feature-box{
 	width: 80%;
 }
