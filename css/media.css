@@ -21,7 +21,7 @@
 }
 .feature-box{
 	padding: 1rem;
-	width: 75%;
+	width: 75% !important;
 }
 .email{
 	padding: 10px 2px;
@@ -29,7 +29,7 @@
 }
 @media screen and (min-width: 767px) and (max-width:991px){
 	.feature-box{
-	width: 80%;
+	width: 80% !important;
 }
 .email{
 	padding: 10px 1px;
